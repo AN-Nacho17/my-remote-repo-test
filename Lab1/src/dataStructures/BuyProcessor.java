@@ -18,6 +18,7 @@ import model.enums.State;
 /**
  *
  * @author Ignacio Orozco & Marcell Elizondo
+ * This is somme comments added to see a git status changes
  */
 public class BuyProcessor {
 
